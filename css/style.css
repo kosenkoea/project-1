@@ -81,7 +81,7 @@ head, body{
 .header__wrapper{
     width: 1438px;
     height: 769px;
-    background: url(/img/head_bg_img.jpg) center;
+    background: url(../project-4/img/head_bg_img.jpg) center;
     margin: 0 auto;
 }
 .header__logo__wrapper{
@@ -232,14 +232,14 @@ nav.nav__menu ul li:first-child{
 .about__right__plane{
     margin-left: 85px;
     margin-right: 15px;
-    background: url(/img/plane-img.jpg);
+    background: url(../project-4/img/plane-img.jpg);
 }
 .about__right__manage{
     margin-right: 15px;
-    background: url(/img/manage-img.jpg);
+    background: url(../project-4/img/manage-img.jpg);
 }
 .about__right__build{
-    background: url(/img/build-img.jpg);
+    background: url(../project-4/img/build-img.jpg);
 }
 .service__wrapper{
     /* position: relative; */
@@ -339,7 +339,7 @@ nav.nav__menu ul li:first-child{
     width: 1438px;
     height: 497px;
     margin: 235px auto 0 auto;
-    background: url(/img/footer-img.png) center no-repeat;
+    background: url(../project-4/img/footer-img.png) center no-repeat;
     text-align: center;
 }
 .service__footer__wrapper h3{
